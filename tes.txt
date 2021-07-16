@@ -1,0 +1,18 @@
+4
+('Minor', 'SurnameAllDied', 'female', 'male')
+0.8365617433414043
+5
+('Minor', 'SurnameAllDied', 'SurnameOneLived', 'female', 'male')
+0.8371670702179177
+6
+('Minor', 'SurnameAllDied', 'SurnameOneLived', 'FamilySize', 'female', 'male')
+0.8329297820823245
+7
+('Pclass', 'Age', 'Fare', 'Minor', 'SurnameAllDied', 'female', 'male')
+0.8153753026634382
+8
+('Pclass', 'Age', 'Fare', 'Minor', 'SurnameAllDied', 'SurnameOneLived', 'female', 'male')
+0.8123486682808717
+9
+('Pclass', 'Age', 'Fare', 'Minor', 'SurnameAllDied', 'SurnameOneLived', 'FamilySize', 'female', 'male')
+0.8020581113801454
